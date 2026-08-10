@@ -11,54 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Engineering (MSCE), Texas A&M University, 2026 - 2028 (expected)
+* B.S. in Computer Science, Northeastern University, 2019 - 2022 (Summa Cum Laude, GPA 3.96/4.00)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2022 - present: Technical Staff
+  * MIT Lincoln Laboratory
+  * Machine learning research in computer vision, foundation models, and multi-sensor imaging
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2023 - September 2023: Research Assistant
+  * Massachusetts Institute of Technology, DAF-MIT AI Accelerator
+  * Pilot performance prediction using multimodal physiological metrics
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* May 2021 - December 2021: Systems Engineer (Co-op)
+  * The MITRE Corporation
+  * Probabilistic graphical models of radar tracks; executable activity diagrams for air traffic control simulation
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, C++, MATLAB, Java
+* PyTorch, Jax, TensorFlow/Keras, ONNX
+* Docker, Redis, Slurm, git, CI/CD
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* MIT Lincoln Laboratory 2023-2024 Team Award

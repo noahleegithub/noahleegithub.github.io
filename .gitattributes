@@ -1,0 +1,25 @@
+# Normalize line endings across platforms.
+# All text files use LF in the repo; git converts on checkout per-OS.
+* text=auto
+
+# Force LF for the files most prone to CRLF churn.
+*.md     text eol=lf
+*.html   text eol=lf
+*.css    text eol=lf
+*.scss   text eol=lf
+*.js     text eol=lf
+*.json   text eol=lf
+*.yml    text eol=lf
+*.yaml   text eol=lf
+*.py     text eol=lf
+*.ipynb  text eol=lf
+
+# Binary files must never be treated as text.
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.gif    binary
+*.ico    binary
+*.pdf    binary
+*.woff   binary
+*.woff2  binary
