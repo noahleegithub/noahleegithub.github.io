@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+**View or download my full CV: [Noah_Lee_CV.pdf](/files/Noah_Lee_CV.pdf)** — or browse the summary below.
+
+<iframe src="/files/Noah_Lee_CV.pdf" style="width:100%;height:800px;border:none;" title="Noah Lee CV"></iframe>
+
+<hr />
+
 Education
 ======
 * M.S. in Computer Engineering (MSCE), Texas A&M University, 2026 - 2028 (expected)
