@@ -11,4 +11,6 @@ redirect_from:
 
 **Download my CV: [Noah_Lee_CV.pdf](/files/Noah_Lee_CV.pdf)**
 
-<iframe src="/files/Noah_Lee_CV.pdf" style="width:100%;height:1900px;border:none;" title="Noah Lee CV"></iframe>
+<div style="width:100%;height:80vh;overflow:auto;border:1px solid #ddd;">
+  <iframe src="/files/Noah_Lee_CV.pdf" style="width:100%;height:1600px;border:none;" title="Noah Lee CV"></iframe>
+</div>
